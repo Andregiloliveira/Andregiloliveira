@@ -3,10 +3,10 @@
 💻 **Engenheiro de Dados | Analista de Dados**  
 
 Sou um programador que adora aprender e construir código que facilita a minha vida e a dos outros.
-很高兴认识你！我现在学会中文为了我要在中国工作！
+
+很高兴认识你！我现在学会中文为了我要在中国工作！我学会中文就我能给你聊天儿，这是我的梦想.
 
 ## 🛠 Tech Stack
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
