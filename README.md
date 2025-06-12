@@ -1,10 +1,9 @@
 # Oi, eu sou o André! Hello, I'm Andre! 你好，我叫Andre
 
-💻 **Desenvolvedor/Engenheiro de Dados | Cientista de Dados**  
+💻 **Engenheiro de Dados | Analista de Dados**  
 
-Sou um engenheiro de dados que adora aprender e construir código que facilita a minha vida e a dos outros.
-
-我现在学会中文为了我要在中国工作！
+Sou um programador que adora aprender e construir código que facilita a minha vida e a dos outros.
+很高兴认识你！我现在学会中文为了我要在中国工作！
 
 ## 🛠 Tech Stack
 
